@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/chip.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "computer chip image";
 
 /**
  * Project list
@@ -31,27 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "REST API",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "Number fact API UX. Generated and displayed random number fact from trivia, math, date and year categories. Created user input for user to generate number specific facts. Built in 2 days",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Back-end REST API",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Rock, Paper, Scissors game",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a rock paper scissors game that plays in the console log. Built in 1 day",
+    url: "",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
